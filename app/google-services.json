@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520242767839",
+    "project_id": "databaselecture-97f60",
+    "storage_bucket": "databaselecture-97f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520242767839:android:94dd17767cadde00b1866a",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520242767839-7ghebeep3qevbk7tkpi6ko6rioskqk90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWlQXsaa4wCfWqVUmtEayroFyEyG28iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520242767839-7ghebeep3qevbk7tkpi6ko6rioskqk90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
